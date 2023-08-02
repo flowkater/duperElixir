@@ -1,0 +1,56 @@
+Compiling 1 file (.ex)
+Results:
+
+["./.git/FETCH_HEAD", "./deps/dir_walker/.fetch",
+ "./_build/dev/lib/dir_walker/.mix/compile.fetch",
+ "./_build/dev/lib/duper/.mix/compile.lock",
+ "./.elixir_ls/build/test/lib/dir_walker/.mix/compile.fetch",
+ "./.elixir_ls/build/test/lib/duper/.mix/compile.lock"]
+["./_build/dev/lib/duper/consolidated/Elixir.Hex.Solver.Constraint.beam",
+ "./_build/test/lib/duper/consolidated/Elixir.Hex.Solver.Constraint.beam"]
+["./_build/dev/lib/duper/consolidated/Elixir.List.Chars.beam",
+ "./_build/test/lib/duper/consolidated/Elixir.List.Chars.beam"]
+["./.elixir_ls/build/test/lib/dir_walker/ebin/Elixir.DirWalker.beam",
+ "./.elixir_ls/dialyzer_tmp/.elixir_ls/build/test/lib/dir_walker/ebin/Elixir.DirWalker.beam"]
+["./.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.Application.beam",
+ "./.elixir_ls/dialyzer_tmp/.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.Application.beam"]
+["./.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.Worker.beam",
+ "./.elixir_ls/dialyzer_tmp/.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.Worker.beam"]
+["./_build/dev/lib/duper/ebin/Elixir.Duper.Results.beam",
+ "./_build/test/lib/duper/ebin/Elixir.Duper.Results.beam"]
+["./_build/dev/lib/dir_walker/ebin/dir_walker.app",
+ "./.elixir_ls/build/test/lib/dir_walker/ebin/dir_walker.app"]
+["./.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.WorkerSupervisor.beam",
+ "./.elixir_ls/dialyzer_tmp/.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.WorkerSupervisor.beam"]
+["./.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.Results.beam",
+ "./.elixir_ls/dialyzer_tmp/.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.Results.beam"]
+["./.git/logs/refs/heads/master", "./.git/logs/HEAD"]
+["./_build/dev/lib/duper/consolidated/Elixir.Inspect.beam",
+ "./_build/test/lib/duper/consolidated/Elixir.Inspect.beam"]
+["./_build/dev/lib/duper/consolidated/Elixir.IEx.Info.beam",
+ "./_build/test/lib/duper/consolidated/Elixir.IEx.Info.beam"]
+["./.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.Gatherer.beam",
+ "./.elixir_ls/dialyzer_tmp/.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.Gatherer.beam"]
+["./_build/dev/lib/duper/.mix/compile.elixir_scm",
+ "./_build/test/lib/duper/.mix/compile.elixir_scm",
+ "./.elixir_ls/build/test/lib/duper/.mix/compile.elixir_scm"]
+["./_build/dev/lib/duper/ebin/duper.app",
+ "./.elixir_ls/build/test/lib/duper/ebin/duper.app"]
+["./_build/dev/lib/dir_walker/.mix/compile.elixir_scm",
+ "./.elixir_ls/build/test/lib/dir_walker/.mix/compile.elixir_scm"]
+["./_build/dev/lib/duper/ebin/Elixir.Duper.beam",
+ "./_build/test/lib/duper/ebin/Elixir.Duper.beam",
+ "./.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.beam",
+ "./.elixir_ls/dialyzer_tmp/.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.beam"]
+["./_build/dev/lib/duper/consolidated/Elixir.String.Chars.beam",
+ "./_build/test/lib/duper/consolidated/Elixir.String.Chars.beam"]
+["./_build/dev/lib/duper/consolidated/Elixir.Enumerable.beam",
+ "./_build/test/lib/duper/consolidated/Elixir.Enumerable.beam"]
+["./_build/dev/lib/duper/consolidated/Elixir.Collectable.beam",
+ "./_build/test/lib/duper/consolidated/Elixir.Collectable.beam"]
+["./_build/dev/lib/dir_walker/.mix/compile.elixir",
+ "./.elixir_ls/build/test/lib/dir_walker/.mix/compile.elixir"]
+["./.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.PathFinder.beam",
+ "./.elixir_ls/dialyzer_tmp/.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.PathFinder.beam"]
+["./_build/dev/lib/duper/.mix/compile.protocols",
+ "./_build/test/lib/duper/.mix/compile.protocols"]
